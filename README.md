@@ -1,8 +1,9 @@
 ### Hi peeps 👋👋
 
 # 💫About Me :
-- 🔭 I’m 3-year students on FPT University.
+- 🔭 I’m students on FPT University.
 - 🌱 My major is software engineering.
+- ⚡ My favorite: volleyball, badminton, swimming, guitar.
 - 😄 So cute, sociable, funny and friendly.
   📫 😄 ⚡ 
 
