@@ -1,6 +1,6 @@
-### Hi peeps 👋👋
-
 # 💫About Me :
+
+### Hi peeps 👋👋
 
 - <img src="images/vietnam-flag.png" style="width: 20px; max-width: 100%">
   I come from Vietnam
